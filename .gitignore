@@ -1,0 +1,15 @@
+# Generated program files
+student_management
+student_management.exe
+*.o
+*.obj
+*.out
+
+# Local student records
+students.txt
+
+# IDE / editor files
+.vscode/
+.idea/
+*.user
+*.suo
